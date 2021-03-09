@@ -11,3 +11,9 @@ EEG recording is the most common method to get the biosignals for seizure detect
 Nvidia Jetson nano or RTX 2080 Ti
 
 Epilepsy seziure detecion with parallel computing
+
+supeerfast lineear spectral estiamtion for EEG signals to identify the epilepsy seizure 
+
+CUDA labraries (All CUDA C++ libraries)
+
+XGBOOST classifier
